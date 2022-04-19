@@ -6,6 +6,6 @@
 
 ## Colab files
 
-- IR_project.ipynb: To create the csv with tokenized claims
-- IR2.ipynb: To retrieve documents in ranked order
-- LSTM.ipynb: To classify claims as support or refute 
+- Preprocessing.ipynb: To create the csv with tokenized claims
+- DocRetrieval.ipynb: To retrieve documents in ranked order
+- Verficiation.ipynb: To classify claims as support or refute 
